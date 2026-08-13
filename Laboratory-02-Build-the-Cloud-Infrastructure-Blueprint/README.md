@@ -58,7 +58,4 @@ During this laboratory activity, I learned how to inspect a Linux server and ide
 
 One challenge was understanding some of the Linux commands and the information displayed by the terminal. Another challenge was organizing the files and screenshots correctly in GitHub. I was able to overcome these challenges by reviewing the commands and following the required repository structure.
 
-## Conclusion
-
-This laboratory helped me understand how compute, storage, networking, and operating systems work together in a cloud environment. It also improved my skills in Linux, cloud infrastructure, Markdown documentation, and GitHub.
 
