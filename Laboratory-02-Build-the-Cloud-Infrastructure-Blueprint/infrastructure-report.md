@@ -1,1 +1,1 @@
-
+![image alt](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/9991334fa26dad231854a89ee6a7568736a556ba/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/a49d7fd2-97d9-42c0-9584-fa1da64a4caa.png)
