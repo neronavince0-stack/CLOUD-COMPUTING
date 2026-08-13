@@ -1,1 +1,2 @@
 ![image alt](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/9991334fa26dad231854a89ee6a7568736a556ba/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/a49d7fd2-97d9-42c0-9584-fa1da64a4caa.png)
+![image alt](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/3fc9c9a686b37f21cee71944c73259e20ff0eba7/Laboratory-02-Build-the-Cloud-Infrastructure-Blueprint/43c272dd-36de-4ca1-8990-d17b4153be06%20(1).png)
