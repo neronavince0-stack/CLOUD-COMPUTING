@@ -32,4 +32,4 @@ Azure is commonly used by enterprises for hosting applications, running Windows 
 
 ## Screenshot
 
-![image alt]([screenshots/azure-homepage.png](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/0542543b661fd8902e4867a7e034dc288a7a927b/Laboratory-03-Multi-Cloud-Explorer/screenshots/azure.png))
+![image alt](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/0542543b661fd8902e4867a7e034dc288a7a927b/Laboratory-03-Multi-Cloud-Explorer/screenshots/azure.png)
