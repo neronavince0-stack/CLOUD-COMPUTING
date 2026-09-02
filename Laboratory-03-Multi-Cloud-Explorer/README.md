@@ -31,4 +31,4 @@ These services provide virtual computing environments where Linux-based workload
 
 ## Screenshot
 
-![KillerCoda Terminal](screenshots/killercoda-terminal.png)
+![image alt](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/9b6f860bc89c95b15e33b24977c084d980205100/Laboratory-03-Multi-Cloud-Explorer/screenshots/killercoda.png)
