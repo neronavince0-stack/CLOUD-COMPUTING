@@ -32,4 +32,4 @@ AWS is commonly used by enterprises for hosting websites and applications, stori
 
 ## Screenshot
 
-![AWS Homepage]([screenshots/aws-homepage.png](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/686e1a65435eff310adfc33502c5feb7a6223d03/Laboratory-03-Multi-Cloud-Explorer/screenshots/7b8a9686-1d6d-4525-969b-5477c83621d3.png))
+![image alt](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/686e1a65435eff310adfc33502c5feb7a6223d03/Laboratory-03-Multi-Cloud-Explorer/screenshots/7b8a9686-1d6d-4525-969b-5477c83621d3.png)
