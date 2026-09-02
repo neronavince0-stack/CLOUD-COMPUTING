@@ -31,5 +31,5 @@ Google Cloud is commonly used for application hosting, data analytics, artificia
 
 ## Screenshot
 
-![GCP Homepage
+![image alt](https://github.com/neronavince0-stack/CLOUD-COMPUTING/blob/54c97f6daf249f1ab834824cfac94e238ea6eb5b/Laboratory-03-Multi-Cloud-Explorer/screenshots/Gcp.png)
 
